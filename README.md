@@ -44,7 +44,7 @@ sudo usermod -aG docker $USER
 
 2. وارد حساب کاربری خود شوید یا ثبت‌نام کنید.
 
-3. به صفحه [توکن‌های دسترسی API](https://huggingface.co/settings/tokens) در تنظیمات حساب خود بروید.
+3. به صفحه [API access tokens ](https://huggingface.co/settings/tokens) در تنظیمات حساب خود بروید.
 
 4. روی **"ایجاد توکن جدید"** کلیک کنید، به تب **"Write"** بروید و یک کلید API با کلیک روی **"ایجاد توکن"** ایجاد کنید.
 
